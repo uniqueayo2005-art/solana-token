@@ -2,7 +2,7 @@
   "name": "Ayomide Token",
   "symbol": "AYD",
   "description": "A beginner SPL token created by Ayomide David as part of a Solana Web3 learning project.",
-  "image": "https://raw.githubusercontent.com/user/repo/main/token.png",
+  "image": "https://raw.githubusercontent.com/uniqueayo2005-art/solana-token/refs/heads/main/token.png",
   "attributes": [
     {
       "trait_type": "Project",
